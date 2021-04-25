@@ -44,7 +44,7 @@ has_children: true
 <tbody>
   <tr>
     <td class="tg-amwm" rowspan="6"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">C</span></td>
-    <td class="tg-s5be" rowspan="6"><a href="https://docs.google.com/document/d/1Ie6lwWd7Y5F8TTijn34j34szKsNZ7N_azp64L1HZzlw/edit#bookmark=id.30j0zll"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#0563C1;background-color:transparent">Check</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order.</span></td>
+    <td class="tg-s5be" rowspan="6"><a href="check.html"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#0563C1;background-color:transparent">Check</span></a><br><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dataset has been submitted to the proper dataverse</span></td>
     <td class="tg-2p8v"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
     <td class="tg-xt05"></td>
