@@ -14,6 +14,7 @@ has_children: true
 * Level 3: This level of curation prepares datasets for reproducibility, and preservation. This level includes:
 
 ### Markdown table: 
+
 | Step  | Description                                                                                                                                                                                              | Major Tasks                                                                                                                                                                 | Level 1 | Level 2 | Level 3 |
 |-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:-------:|:-------:|
 | [Check](check) | Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order.                                                                          | Dataset has been submitted to the proper dataverse                                                                                                                          |    X    |         |         |
@@ -39,6 +40,7 @@ has_children: true
 |   N   | Note Down Ensure that you have made an accurate, written record of your curation work.                                                                                                                   | Create a curation log to document your decisions and actions                                                                                                                |         |    X    |         |
 
 ### HTML Table
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
