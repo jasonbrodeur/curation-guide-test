@@ -58,6 +58,7 @@ has_children: true
 .tg .tg-3qpk{background-color:#BFBFBF;text-align:left;vertical-align:top}
 .tg .tg-0vn4{background-color:#F2F2F2;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -71,7 +72,7 @@ has_children: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zmfr" rowspan="6"><a href="check.md"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Check</span></a></td>
+    <td class="tg-zmfr" rowspan="6"><a href="check.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Check</span></a></td>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dataset has been submitted to the proper dataverse</span></td>
     <td class="tg-2p8v"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
