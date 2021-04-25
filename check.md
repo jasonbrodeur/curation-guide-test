@@ -14,6 +14,7 @@ At the **Check** step, confirm that all data and metadata components required by
 ## Level 1
 
 ### Markdown table: 
+
 | Yes | No  | Some issues | N/A |  |
 |:-:|:-:|:-:|:-:|:--|
 | ❑ | ❑ | ❑ | ❑ | The dataset has been submitted to the proper dataverse. Depending on the configuration of your Dataverse instance, researchers may have the option to submit a dataset to a number of parent dataverses (or create a new one). To evaluate whether the dataset is in the most appropriate dataverse, consider the following: <br>   - Has the researcher (or their research group) previously created or submitted to a dataverse? <br>  - Does the dataset require its own dataverse or is there an associated dataverse to which it belongs? <br>  - Does the dataset conform to the policies and submission standards associated with the specific dataverse? |
