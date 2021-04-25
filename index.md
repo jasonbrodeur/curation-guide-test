@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Portage Dataverse Curation Guide
-description: "A guide for Dataverse Curators"
+title: Home
+description: "Home page"
 lang: en
 ref: home
 nav_order: 1
