@@ -23,20 +23,20 @@ has_children: true
 |  |  | Supporting documentation is included | X |  |  |
 |  |  | The researcher has confirmed that the data is free of any licensing and intellectual property issues | X |  |  |
 |  |  | The researcher has confirmed that the data is free of identifying/sensitive information | X |  |  |
-| [Understand](understand) | Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used. | Supporting documentation is thorough, accurate, and complete |  | X |  |
+| [Understand](understand.md) | Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used. | Supporting documentation is thorough, accurate, and complete |  | X |  |
 |  |  | Files open properly and contents appear as expected |  | X |  |
 |  |  | Files and folders are named and structured appropriately  |  | X |  |
 |  |  | Code is well commented and produces the expected results  |  |  | X |
 |  |  | Submission contains potential sensitivities |  |  | X |
 |  |  | Submission contains data or code from third party sources |  |  | X |
-| [Recommend](recommend) | Request additional information from the depositor or suggest changes to the metadata and files that will improve findability and usability of the data in accordance with the FAIR principles. | Reach out to the depositor with a clear request for information  |  | X |  |
+| [Recommend](recommend.md) | Request additional information from the depositor or suggest changes to the metadata and files that will improve findability and usability of the data in accordance with the FAIR principles. | Reach out to the depositor with a clear request for information  |  | X |  |
 |  |  | Prioritize your recommendations in a list to determine which requests are critical or actionable, and which requests you may be able to live with if they are not fulfilled | X |  |  |
-| [Augment](augment) | Enhance the submission to facilitate discoverability and usability. | Metadata is rich, accurate, and complete |  | X |  |
+| [Augment](augment.md) | Enhance the submission to facilitate discoverability and usability. | Metadata is rich, accurate, and complete |  | X |  |
 |  |  | Links to related publications, datasets, and other resources are included  |  | X |  |
-| [Transform](transform) | Ensure the dataset is using as many open and common formats as possible. | File formats are open, or appropriately documented |  |  | X |
+| [Transform](transform.md) | Ensure the dataset is using as many open and common formats as possible. | File formats are open, or appropriately documented |  |  | X |
 | [Include](include) | Facilitate the reuse, proper attribution, and credit of data by including relevant persistent IDs and appropriate licencing information. | Include persistent identifiers wherever possible  |  | X |  |
 |  |  | Review the licensing and terms of use for the dataset |  |  | X |
-| [Optimize](optimize)| Evaluate the overall FAIRness of the dataset and take steps to optimize the findability, accessibility, interoperability and reusability of the data. | Evaluate the dataset and Optimize FAIRness |  |  | X |
+| [Optimize](optimize.md)| Evaluate the overall FAIRness of the dataset and take steps to optimize the findability, accessibility, interoperability and reusability of the data. | Evaluate the dataset and Optimize FAIRness |  |  | X |
 | [Note Down](note-down) | Ensure that you have made an accurate, written record of your curation work. | Create a curation log to document your decisions and actions |  | X |  |
 
 
@@ -71,7 +71,7 @@ has_children: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zmfr" rowspan="6"><a href="check.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Check</span></a></td>
+    <td class="tg-zmfr" rowspan="6"><a href="check.md"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Check</span></a></td>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dataset has been submitted to the proper dataverse</span></td>
     <td class="tg-2p8v"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
