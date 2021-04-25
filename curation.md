@@ -17,7 +17,7 @@ has_children: true
 
 | Step | Description | Major Tasks  | Level 1 | Level 2 | Level 3 |
 |:-:|:--|:--|:-:|:-:|:-:|
-| [Check](check) | Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order. | Dataset has been submitted to the proper dataverse | X |  |  |
+| [Check](check.md) | Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order. | Dataset has been submitted to the proper dataverse | X |  |  |
 |  |  | All files described in the documentation are included in the dataset | X |  |  |
 |  |  | Required metadata fields are accurate | X |  |  |
 |  |  | Supporting documentation is included | X |  |  |
@@ -109,7 +109,7 @@ has_children: true
     <td class="tg-3qpk"></td>
   </tr>
   <tr>
-    <td class="tg-zmfr" rowspan="6"><a href="understand"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Understand</span></a></td>
+    <td class="tg-zmfr" rowspan="6"><a href="understand.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Understand</span></a></td>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Supporting documentation is thorough, accurate, and complete</span></td>
     <td class="tg-0vn4"></td>
