@@ -109,7 +109,7 @@ has_children: true
     <td class="tg-3qpk"></td>
   </tr>
   <tr>
-    <td class="tg-zmfr" rowspan="6"><a href="understand.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Understand</span></a></td>
+    <td class="tg-zmfr" rowspan="6"><a href="understand"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Understand</span></a></td>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Supporting documentation is thorough, accurate, and complete</span></td>
     <td class="tg-0vn4"></td>
