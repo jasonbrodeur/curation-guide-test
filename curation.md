@@ -39,7 +39,7 @@ has_children: true
 | [Optimize](optimize)| Evaluate the overall FAIRness of the dataset and take steps to optimize the findability, accessibility, interoperability and reusability of the data. | Evaluate the dataset and Optimize FAIRness |  |  | X |
 | [Note Down](note-down) | Ensure that you have made an accurate, written record of your curation work. | Create a curation log to document your decisions and actions |  | X |  |
 
-<!--
+
 ### HTML Table
 
 <style type="text/css">
@@ -214,4 +214,4 @@ has_children: true
   </tr>
 </tbody>
 </table>
--->
+
