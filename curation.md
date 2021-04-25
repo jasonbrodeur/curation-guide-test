@@ -70,7 +70,7 @@ has_children: true
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zmfr" rowspan="6"><a href="check.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Check</span></a></td>
+    <td class="tg-zmfr" rowspan="6"><a href="check.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Check</span></a></td>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Dataset has been submitted to the proper dataverse</span></td>
     <td class="tg-2p8v"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
@@ -108,7 +108,7 @@ has_children: true
     <td class="tg-3qpk"></td>
   </tr>
   <tr>
-    <td class="tg-zmfr" rowspan="6"><a href="understand.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Understand</span></a></td>
+    <td class="tg-zmfr" rowspan="6"><a href="understand.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Understand</span></a></td>
     <td class="tg-0lax" rowspan="6"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Supporting documentation is thorough, accurate, and complete</span></td>
     <td class="tg-0vn4"></td>
@@ -146,7 +146,7 @@ has_children: true
     <td class="tg-hyi1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
   </tr>
   <tr>
-    <td class="tg-zmfr" rowspan="2"><a href="recommend.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Recommend</span></a></td>
+    <td class="tg-zmfr" rowspan="2"><a href="recommend.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Recommend</span></a></td>
     <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Request additional information from the depositor or suggest changes to the metadata and files that will improve findability and usability of the data in accordance with the FAIR principles.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Reach out to the depositor with a clear request for information </span></td>
     <td class="tg-0vn4"></td>
@@ -160,7 +160,7 @@ has_children: true
     <td class="tg-3qpk"></td>
   </tr>
   <tr>
-    <td class="tg-zmfr" rowspan="2"><a href="augment.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Augment</span></a></td>
+    <td class="tg-zmfr" rowspan="2"><a href="augment.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Augment</span></a></td>
     <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Enhance the submission to facilitate discoverability and usability.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Metadata is rich, accurate, and complete</span></td>
     <td class="tg-0vn4"></td>
@@ -174,7 +174,7 @@ has_children: true
     <td class="tg-3qpk"></td>
   </tr>
   <tr>
-    <td class="tg-zmfr"><a href="transform.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Transform</span></a></td>
+    <td class="tg-zmfr"><a href="transform.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Transform</span></a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure the dataset is using as many open and common formats as possible.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">File formats are open, or appropriately documented</span></td>
     <td class="tg-0vn4"></td>
@@ -182,7 +182,7 @@ has_children: true
     <td class="tg-hyi1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
   </tr>
   <tr>
-    <td class="tg-zmfr" rowspan="2"><a href="include.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Include</span></a></td>
+    <td class="tg-zmfr" rowspan="2"><a href="include.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Include</span></a></td>
     <td class="tg-0lax" rowspan="2"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Facilitate the reuse, proper attribution, and credit of data by including relevant persistent IDs and appropriate licencing information.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Include persistent identifiers wherever possible </span></td>
     <td class="tg-0vn4"></td>
@@ -196,7 +196,7 @@ has_children: true
     <td class="tg-hyi1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
   </tr>
   <tr>
-    <td class="tg-zmfr"><a href="optimize.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Optimize</span></a></td>
+    <td class="tg-zmfr"><a href="optimize.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Optimize</span></a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Evaluate the overall FAIRness of the dataset and take steps to optimize the findability, accessibility, interoperability and reusability of the data.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Evaluate the dataset and Optimize FAIRness</span></td>
     <td class="tg-0vn4"></td>
@@ -204,7 +204,7 @@ has_children: true
     <td class="tg-hyi1"><span style="font-weight:700;font-style:normal;text-decoration:none;color:#000;background-color:transparent">X</span></td>
   </tr>
   <tr>
-    <td class="tg-zmfr"><a href="note-down.html/"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Note Down</span></a></td>
+    <td class="tg-zmfr"><a href="note-down.html"><span style="font-weight:700;font-style:normal;text-decoration:underline;color:#15C;background-color:transparent">Note Down</span></a></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ensure that you have made an accurate, written record of your curation work.</span></td>
     <td class="tg-0lax"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Create a curation log to document your decisions and actions</span></td>
     <td class="tg-0vn4"></td>
