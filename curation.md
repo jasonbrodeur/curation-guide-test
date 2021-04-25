@@ -17,27 +17,27 @@ has_children: true
 
 | Step | Description | Major Tasks  | Level 1 | Level 2 | Level 3 |
 |-|-|-|:-:|:-:|:-:|
-| Check | Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order. | Dataset has been submitted to the proper dataverse | X |  |  |
+| [Check](check) | Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order. | Dataset has been submitted to the proper dataverse | X |  |  |
 |  |  | All files described in the documentation are included in the dataset | X |  |  |
 |  |  | Required metadata fields are accurate | X |  |  |
 |  |  | Supporting documentation is included | X |  |  |
 |  |  | The researcher has confirmed that the data is free of any licensing and intellectual property issues | X |  |  |
 |  |  | The researcher has confirmed that the data is free of identifying/sensitive information | X |  |  |
-| Understand | Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used. | Supporting documentation is thorough, accurate, and complete |  | X |  |
+| [Understand](understand) | Ensure the dataset is well described and that end-users will have a clear picture of what the data is and how it can be used. | Supporting documentation is thorough, accurate, and complete |  | X |  |
 |  |  | Files open properly and contents appear as expected |  | X |  |
 |  |  | Files and folders are named and structured appropriately  |  | X |  |
 |  |  | Code is well commented and produces the expected results  |  |  | X |
 |  |  | Submission contains potential sensitivities |  |  | X |
 |  |  | Submission contains data or code from third party sources |  |  | X |
-| Recommend | Request additional information from the depositor or suggest changes to the metadata and files that will improve findability and usability of the data in accordance with the FAIR principles. | Reach out to the depositor with a clear request for information  |  | X |  |
+| [Recommend](recommend) | Request additional information from the depositor or suggest changes to the metadata and files that will improve findability and usability of the data in accordance with the FAIR principles. | Reach out to the depositor with a clear request for information  |  | X |  |
 |  |  | Prioritize your recommendations in a list to determine which requests are critical or actionable, and which requests you may be able to live with if they are not fulfilled | X |  |  |
-| Augment | Enhance the submission to facilitate discoverability and usability. | Metadata is rich, accurate, and complete |  | X |  |
+| [Augment](augment) | Enhance the submission to facilitate discoverability and usability. | Metadata is rich, accurate, and complete |  | X |  |
 |  |  | Links to related publications, datasets, and other resources are included  |  | X |  |
-| Transform | Ensure the dataset is using as many open and common formats as possible. | File formats are open, or appropriately documented |  |  | X |
-| Include | Facilitate the reuse, proper attribution, and credit of data by including relevant persistent IDs and appropriate licencing information. | Include persistent identifiers wherever possible  |  | X |  |
+| [Transform](transform) | Ensure the dataset is using as many open and common formats as possible. | File formats are open, or appropriately documented |  |  | X |
+| [Include](include) | Facilitate the reuse, proper attribution, and credit of data by including relevant persistent IDs and appropriate licencing information. | Include persistent identifiers wherever possible  |  | X |  |
 |  |  | Review the licensing and terms of use for the dataset |  |  | X |
-| Optimize | Evaluate the overall FAIRness of the dataset and take steps to optimize the findability, accessibility, interoperability and reusability of the data. | Evaluate the dataset and Optimize FAIRness |  |  | X |
-| Note Down | Ensure that you have made an accurate, written record of your curation work. | Create a curation log to document your decisions and actions |  | X |  |
+| [Optimize](optimize)| Evaluate the overall FAIRness of the dataset and take steps to optimize the findability, accessibility, interoperability and reusability of the data. | Evaluate the dataset and Optimize FAIRness |  |  | X |
+| [Note Down](note-down) | Ensure that you have made an accurate, written record of your curation work. | Create a curation log to document your decisions and actions |  | X |  |
 
 ### HTML Table
 
