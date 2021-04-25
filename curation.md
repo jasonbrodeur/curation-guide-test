@@ -16,7 +16,7 @@ has_children: true
 ### Markdown table: 
 
 | Step | Description | Major Tasks  | Level 1 | Level 2 | Level 3 |
-|-|-|-|:-:|:-:|:-:|
+|:-:|:--|:--|:-:|:-:|:-:|
 | [Check](check) | Ensure that all the data and metadata components required to successfully publish the dataset are present and in working order. | Dataset has been submitted to the proper dataverse | X |  |  |
 |  |  | All files described in the documentation are included in the dataset | X |  |  |
 |  |  | Required metadata fields are accurate | X |  |  |
